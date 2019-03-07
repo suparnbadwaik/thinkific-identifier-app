@@ -14,6 +14,9 @@ Set a no negative number as your identifiers current value. It would change the 
 6. View the token :
 Displays the token to check the api url from the browser or using curl using this token
 
+Enter the below url in your browser to access the app :
+https://s3.amazonaws.com/thinkific-identifier-api/default.html
+
 
 # Screenshots present in the repository in the snapshot directory.
 

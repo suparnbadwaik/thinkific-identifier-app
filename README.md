@@ -4,7 +4,7 @@ The Thinkific Identifier app provides the following functionalities :
 1. Sign up :
 Allows you to signup as a new user by entering your email and password.
 2. Sign in :
-Allows you to login the app and generated and view the identifiers
+Allows you to login the app, create and view the identifiers.
 3. View the next identifier :
 Generates a new identifier. It basically increments the count by 1.
 4. View the current identifier :
